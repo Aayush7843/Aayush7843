@@ -22,14 +22,18 @@ Stay updated with my latest projects and work by connecting with me on LinkedIn 
 
 [![](https://visitcount.itsvg.in/api?id=Aayush7843&icon=1&color=4)](https://www.linkedin.com/in/ayush--prajapati/)
 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
