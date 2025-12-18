@@ -1,4 +1,34 @@
+💫 Hi 👋, I'm Ayush Prajapati
+A passionate Full Stack Web Developer (MERN) | Frontend Developer (React.js) from India 🇮🇳
 
+📧 Email Me 👉 ✉️ aayushprajapati2926@gmail.com
+
+For internships, projects, collaborations, or opportunities 😊
+
+🔭 I’m currently working on:
+Full-stack web applications, e-commerce platforms, and management systems using MERN Stack & PHP–MySQL
+
+🌱 I’m currently learning:
+Advanced React.js, backend optimization, REST APIs, and scalable system design
+
+👯 I’m looking to collaborate on:
+Web development projects, startups, open-source contributions, and real-world applications
+
+🤔 I’m looking for help with:
+Best practices in scalable full-stack architecture and performance optimization
+
+💬 Ask me about:
+HTML, CSS, JavaScript, React, MERN Stack, PHP, MySQL, Git, APIs
+
+📫 How to reach me:
+✉️ aayushprajapati2926@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/ayush--prajapati
+
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy turning ideas into functional web applications 🚀
+
+🔗 Open to: Internships | Entry-Level Roles | Freelance | Project Collaboration
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayush.prajapatii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush--prajapati) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@easystudy26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushprajapati2926@gmail.com) 
 
